@@ -1,4 +1,0 @@
-# WeatherApp
-
-"# wheatear" 
-"# wheatear" 
